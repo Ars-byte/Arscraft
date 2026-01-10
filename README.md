@@ -19,6 +19,16 @@ click izquierdo: poner bloques
 click derecho: quitar bloques
 1/2/3/4: selector de bloques de la hotbar
 
+### Ejecucion
+
+Puedes ejecutarlo facilmente con los siguientes comandos:
+
+python3 main.py
+
+o si quieres ver el launcher 
+
+python3 launcher_ars.py
+
 ### Preview
 
 
