@@ -21,13 +21,13 @@ click derecho: quitar bloques
 
 ### Ejecucion
 
-Puedes ejecutarlo facilmente con los siguientes comandos:
+Puedes ejecutar solo el juego puedes hacerlo facilmente con el siguiente comando:
 
 python3 main.py
 
-o si quieres ver el launcher 
+o si quieres ejecutar el launcher (màs facilidad):
 
-python3 launcher_ars.py
+python3 launcher_ars.py / dobleclick al appimage y .exe del launcher
 
 ### Preview
 
