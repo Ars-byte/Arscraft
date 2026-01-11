@@ -37,4 +37,3 @@ https://github.com/user-attachments/assets/da7b60d5-fce8-42a6-96c8-279e9881e388
 
 
 
-pyinstaller --noconfirm --onefile --windowed --add-data "assets;assets" --collect-all customtkinter launcher_ars.py
