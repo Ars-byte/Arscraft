@@ -27,7 +27,7 @@ python3 main.py
 
 o si quieres ejecutar el launcher (màs facilidad):
 
-python3 launcher_ars.py / dobleclick al appimage y .exe del launcher
+python3 launcher_ars.py / dobleclick al appimage
 
 ### Preview
 
